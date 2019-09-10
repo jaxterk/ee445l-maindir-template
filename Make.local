@@ -1,0 +1,6 @@
+# the c standard library stuff? i think? i dont remember
+LDFLAGS += -L/usr/lib/
+
+# you should only have to change the version on this line
+LDFLAGS += -L/usr/lib/gcc/arm-none-eabi/9.2.0
+
